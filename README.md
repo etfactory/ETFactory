@@ -1,7 +1,7 @@
 # WELCOME to This PAGE!
 
 ## ABOUT ME
-I'm a Student learning Mobile Application Development.
+I'm a Undergraduate Student learning Mobile Application Development.
 
 ### CAREER
 * *Kongju National University Div. of Computer Engineering* **Undergraduate Student** (2021~)
@@ -16,9 +16,9 @@ I'm a Student learning Mobile Application Development.
 [![Notion](https://img.shields.io/badge/notion-181A1D?style=for-the-badge&logo=notion&logoColor=ffffff)](https://notion.etfactory.dev)
 [![Youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=ffffff)](https://youtube.etfactory.dev)
 
-## CONTACT
-![EMAIL](https://img.shields.io/badge/factory@etfactory.dev-0B0D0E.svg?style=for-the-badge&logo=mail.ru&logoColor=white)
-
 ## ETC
 ### Military Service
 * *Republic of Korea Army Non-commissioned Academy* **Assistant Institute** of Personal Weapon (2023~2024)
+
+### CONTACT
+![EMAIL](https://img.shields.io/badge/factory@etfactory.dev-0B0D0E.svg?style=for-the-badge&logo=mail.ru&logoColor=white)
